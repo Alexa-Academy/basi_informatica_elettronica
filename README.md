@@ -11,4 +11,5 @@ Cos'è un algoritmo?: https://youtu.be/I9fJwEfJ7Nw
 Cos'è un flow chart e come usarlo per con un algoritmo?: https://youtu.be/ujsYoMAywO0  
 Un esempio dal libro "Storia degli Algoritmi": https://youtu.be/3t2vbz0qFEk  
 Conversione tra basi numeriche generiche: https://youtu.be/seAAb3jOm9Q  
-
+Digitalizzazione: quantizzazione e campionamento:  
+Architettura del computer e programmazione:  
